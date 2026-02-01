@@ -1,1 +1,14 @@
+# Dependencies
+node_modules/
 
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment & Private Data
+.env
+.DS_Store
+
+# Local Database
+*.db
